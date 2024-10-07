@@ -1,6 +1,6 @@
 # Halite-Bot
 
-
+I created this bot as a part of SIG, online trading feat.
 ===========================
 General outline of strategy
 ===========================
